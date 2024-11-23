@@ -49,7 +49,7 @@
 - **$mod+q** – Close window  
 - **$mod+Return** – Open terminal (URxvt)  
 - **$mod+f** – Launch Brave  
-- **$mod+r** – Run rofi  
+- **$mod+d** – Run rofi  
 - **$mod+e** – Open file manager (PCManFM)  
 
 #### ⚙️ **Miscellaneous**
