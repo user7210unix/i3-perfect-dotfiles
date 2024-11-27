@@ -53,6 +53,7 @@
 
 ---
 <div align="center">
+
 ## 🔑 Key Bindings
 
 #### 📱 **Applications**
