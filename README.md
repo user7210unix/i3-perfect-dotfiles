@@ -66,7 +66,7 @@
 
 To install the necessary dependencies on Arch Linux, run:
 
-```sudo pacman -S neofetch rxvt-unicode polybar picom fish i3```
+```sudo pacman -S rxvt-unicode polybar fish i3```
 
 
 **Debian ❣️ - (Ubuntu 🍊 - Mint 🍏)**
@@ -75,7 +75,7 @@ For Debian-based distributions, use the following command:
 
 
 
-```sudo apt install neofetch rxvt-unicode polybar fish picom i3```
+```sudo apt install rxvt-unicode polybar fish i3```
 
 **Gentoo 🧼**
 
@@ -83,7 +83,7 @@ On Gentoo, you can install the required packages using:
 
 
 
-```root # emerge --ask app-misc/neofetch x11-terms/rxvt-unicode polybar x11-wm/i3 x11-misc/picom```
+```root # emerge --ask x11-terms/rxvt-unicode polybar x11-wm/i3```
 
  > Fish Shell Wiki
     (https://wiki.gentoo.org/wiki/Fish)
@@ -96,12 +96,18 @@ For OpenSUSE distribution, use the following command:
 
 
 
-```sudo zypper install neofetch rxvt-unicode fish polybar picom i3```
+```sudo zypper install neofetch rxvt-unicode fish polybar i3```
 
 
-## 📥 Installation Guide
+**PICOM-FORK**
+You will need install all packages listed in the repo (https://github.com/pijulius/picom/tree/implement-window-animations) first to compile this Custom Picom Fork, if not the picom.conf Configuration will not work
 
-To set up this i3 environment, follow the steps below. Make sure you have the necessary dependencies installed for your distribution (refer to the **Dependencies** section).
+```bash
+git clone https://github.com/pijulius/picom.git && cd picom && meson --buildtype=release . build && ninja -C build && ninja -C build install
+
+## 📥 Clone Dotfiles
+
+To set up this i3 Configuration, follow the steps below. Make sure you have the necessary dependencies installed for your distribution (refer to the **Dependencies** section).
 
 ### 1. Clone the Repository
 First, clone the repository containing my personal i3 setup:
