@@ -102,7 +102,7 @@ For OpenSUSE distribution, use the following command:
 **PICOM-FORK**
 You will need install all packages listed in the repo (https://github.com/pijulius/picom/tree/implement-window-animations) first to compile this Custom Picom Fork, if not the picom.conf Configuration will not work
 
-```bash
+```
 git clone https://github.com/pijulius/picom.git && cd picom && meson --buildtype=release . build && ninja -C build && ninja -C build install```
 
 ## 📥 Clone Dotfiles
@@ -113,5 +113,5 @@ To set up this i3 Configuration, follow the steps below. Make sure you have the 
 First, clone the repository containing my personal i3 setup:
 
 ```bash
-git clone https://github.com/user7210unix/i3-perfect-dotfiles.git
+git clone https://github.com/user7210unix/i3-perfect-dotfiles.git```
 
