@@ -41,7 +41,6 @@
 
 ### :octocat: ‎ <sup><sub><samp>HI THERE! THANKS FOR DROPPING BY!</samp></sub></sup>
 
----
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <div style="flex: 1; padding-right: 20px;">
