@@ -4,8 +4,13 @@
 
 
 <div align="center">
-  <h2 style="font-size: 19px;">
+  <h2 style="font-size: 24px;">
     <strong> <a href="https://i3wm.org/" style="text-decoration: none; color: inherit;">
+      <img src="https://i3wm.org/favicon.ico" alt="i3 Icon" style="vertical-align: middle; width: 24px; height: 24px; margin-right: 8px;">
+      Suckless DWM Window Manager</a> 
+    </strong>
+  </h2>
+</div>
 
 
 ```css
@@ -17,6 +22,7 @@
   \|                     |\                 
    |      Dotfiles       |/  Made by @user7210unix
 ```
+---
 
 <h1>
       <img src="showcase/lfs1.png" align="right" alt="Rice Setup Preview" width="500" style="display: block; margin: 29px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
