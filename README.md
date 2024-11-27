@@ -18,6 +18,11 @@
    |      Dotfiles       |/  Made by @user7210unix
 ```
 
+<h1>
+      <img src="showcase/lfs1.png" align="right" alt="Rice Setup Preview" width="800" style="display: block; margin: 29px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
+</div>
+</div> 
+  
 ## ⚙️ Features
 - **Window Manager** :bento: [i3](https://i3wm.org/) Clean theme!
 - **Panel** :blossom: [Polybar](https://github.com/polybar/polybar) with glyphs!
@@ -27,12 +32,6 @@
 - **Shell** :shell: [Fish](https://fishshell.com/) Best Shell!
 - **Compositor** :shaved_ice: [Picom](https://github.com/yshui/picom) for perfection topping!
 - **File Manager** :flower_playing_cards: [Thunar](https://docs.xfce.org/xfce/thunar/start) customized side-pane!
-
-<h1>
-      <img src="showcase/lfs1.png" align="right" alt="Rice Setup Preview" width="800" style="display: block; margin: 29px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
-</div>
-</div>
-
 
 ### :octocat: ‎ <sup><sub><samp>HI THERE! THANKS FOR DROPPING BY!</samp></sub></sup>
 
