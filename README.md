@@ -47,11 +47,10 @@
   <div style="flex: 1; padding-right: 20px;">
     <p><strong>🚀 Resource Efficiency</strong></p>
     <p>Optimized for performance and minimal resource usage. On average, my setup consumes between <strong>250 MB and 400 MB of RAM</strong>, depending on the installed packages and background services. This lightweight configuration maximizes system resources for essential tasks and keeps everything running smoothly.</p>
-  </div>
-  <div style="flex: 1;">
-    <img src="showcase/lfs2.png" alt="Memory Usage Graph" width="800">
-  </div>
+<h1>
+      <img src="showcase/lfs2.png" align="left" alt="Rice Setup Preview" width="650" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
 </div>
+</div> 
 
 ---
 ### 🔑 Key Bindings
