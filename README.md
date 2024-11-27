@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <h2 style="font-size: 29px;">
+  <h2 style="font-size: 22px;">
     <strong> <a href="https://i3wm.org/" style="text-decoration: none; color: inherit;">
 
 
@@ -28,9 +28,12 @@
 - **Compositor** :shaved_ice: [Picom](https://github.com/yshui/picom) for perfection topping!
 - **File Manager** :flower_playing_cards: [Thunar](https://docs.xfce.org/xfce/thunar/start) customized side-pane!
   
-  <div style="flex: 1;">
-      <img src="showcase/lfs1.png" alt="Rice Setup Preview" width="800" style="display: block; margin: 29px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
-</div>
+<h1>
+  <a href="#---------1">
+    <img alt="" align="right" <img src="showcase/lfs1.png> "
+  </a>
+</h1>
+
 </div>
 
 ### :octocat: ‎ <sup><sub><samp>HI THERE! THANKS FOR DROPPING BY!</samp></sub></sup>
@@ -88,13 +91,11 @@ To install the necessary dependencies on Arch Linux, run:
 For Debian-based distributions, use the following command:
 
 
-
 > ```sudo apt install rxvt-unicode polybar fish i3 unzip```
 
 **Gentoo 🧼**
 
 On Gentoo, you can install the required packages using:
-
 
 
 > ```root # emerge: --ask x11-terms/rxvt-unicode polybar x11-wm/i3 unzip```
@@ -121,20 +122,19 @@ For OpenSUSE distribution, use the following command:
 ## 💦 PICOM-FORK
 You will need install all packages listed in the repo (https://github.com/pijulius/picom/tree/implement-window-animations) first to compile this Custom Picom Fork, if not the picom.conf Configuration will not work
 
-```bash git clone https://github.com/pijulius/picom.git && cd picom && meson --buildtype=release . build && ninja -C build && ninja -C build install```
+> ```git clone https://github.com/pijulius/picom.git && cd picom && meson --buildtype=release . build && ninja -C build && ninja -C build install```
 
 ---
 
 ## ✍️ FONTS
-```sh mkdir $HOME/.fonts && wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/JetBrainsMono.zip && unzip JetBrainsMono.zip && wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/Hack.zip && unzip Hack.zip && fc-cache -vf```
+> ``` mkdir $HOME/.fonts && wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/JetBrainsMono.zip && unzip JetBrainsMono.zip && wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/Hack.zip && unzip Hack.zip && fc-cache -vf```
 
 ---
 
 
-### 🐦 Clone the Repository
+### 🐦 Clone the Repository 
 First, clone the repository containing my personal i3 setup:
 
-```bash
-git clone https://github.com/user7210unix/i3-perfect-dotfiles.git```
+```bash git clone https://github.com/user7210unix/i3-perfect-dotfiles.git```
 
 ---
