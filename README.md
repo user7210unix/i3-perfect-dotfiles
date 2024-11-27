@@ -7,7 +7,7 @@
   <h2 style="font-size: 24px;">
     <strong> <a href="https://i3wm.org/" style="text-decoration: none; color: inherit;">
       <img src="https://i3wm.org/favicon.ico" alt="i3 Icon" style="vertical-align: middle; width: 24px; height: 24px; margin-right: 8px;">
-      Suckless DWM Window Manager</a> 
+      i3 Window Manager</a> 
     </strong>
   </h2>
 </div>
