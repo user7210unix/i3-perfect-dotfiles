@@ -13,8 +13,8 @@
     </ul>
   </div>
   <div style="flex: 1;">
-    <img src="showcase/lfs1.png" alt="Rice Setup Preview" width="900">
-  </div>
+      <img src="showcase/lfs1.png" alt="Rice Setup Preview" width="800" style="display: block; margin: 29px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
+</div>
 </div>
 
 ---
@@ -44,10 +44,10 @@
 #### 📱 **Applications**
 
 - **$mod+q** – Close window  
-- **$mod+Return** – Open terminal (URxvt)  
-- **$mod+f** – Launch Brave  
-- **$mod+d** – Run rofi  
-- **$mod+e** – Open file manager (PCManFM)  
+- **$mod+Return** – Open terminal (RXVT)  
+- **$mod+f** – Launch FIREFOX  
+- **$mod+d** – Run ROFI  
+- **$mod+e** – Open file manager (THUNAR)  
 
 #### ⚙️ **Miscellaneous**
 
@@ -63,13 +63,7 @@
 
 To install the necessary dependencies on Arch Linux, run:
 
-```console sudo pacman -S rxvt-unicode polybar fish i3```
-
-**Fedora Linux 🔷**
-
-To install the necessary dependencies on Arch Linux, run:
-
-```console sudo dnf install rxvt-unicode polybar fish i3```
+```console sudo pacman -S rxvt-unicode polybar fish i3 unzip```
 
 **Debian ❣️ - (Ubuntu 🍊 - Mint 🍏)**
 
@@ -77,7 +71,7 @@ For Debian-based distributions, use the following command:
 
 
 
-```console sudo apt install rxvt-unicode polybar fish i3```
+```console sudo apt install rxvt-unicode polybar fish i3 unzip```
 
 **Gentoo 🧼**
 
@@ -85,12 +79,16 @@ On Gentoo, you can install the required packages using:
 
 
 
-```console root # emerge --ask x11-terms/rxvt-unicode polybar x11-wm/i3```
+```console root # emerge --ask x11-terms/rxvt-unicode polybar x11-wm/i3 unzip```
 
  > Fish Shell Wiki
     (https://wiki.gentoo.org/wiki/Fish)
 
+**Fedora Linux 🌊**
 
+To install the necessary dependencies on Arch Linux, run:
+
+```console sudo dnf install rxvt-unicode polybar fish i3 unzip```
 
 **OpenSUSE 🦎**
 
@@ -98,21 +96,25 @@ For OpenSUSE distribution, use the following command:
 
 
 
-```console sudo zypper install neofetch rxvt-unicode fish polybar i3```
+```console sudo zypper install neofetch rxvt-unicode fish polybar i3 unzip ```
 
+---
 
-**PICOM-FORK**
+## 💦 PICOM-FORK
 You will need install all packages listed in the repo (https://github.com/pijulius/picom/tree/implement-window-animations) first to compile this Custom Picom Fork, if not the picom.conf Configuration will not work
 
 ```bash git clone https://github.com/pijulius/picom.git && cd picom && meson --buildtype=release . build && ninja -C build && ninja -C build install```
 
-## 📥 Clone Dotfiles
+## ✍️ FONTS
+```mkdir $HOME/.fonts && wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/JetBrainsMono.zip && unzip JetBrainsMono.zip && wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/Hack.zip && unzip Hack.zip && fc-cache -vf```
 
-To set up this i3 Configuration, follow the steps below. Make sure you have the necessary dependencies installed for your distribution (refer to the **Dependencies** section).
+---
 
-### 1. Clone the Repository
+
+### 🐦 Clone the Repository
 First, clone the repository containing my personal i3 setup:
 
 ```bash
 git clone https://github.com/user7210unix/i3-perfect-dotfiles.git```
 
+---
