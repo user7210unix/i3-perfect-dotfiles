@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <h2 style="font-size: 22px;">
+  <h2 style="font-size: 19px;">
     <strong> <a href="https://i3wm.org/" style="text-decoration: none; color: inherit;">
 
 
@@ -30,7 +30,7 @@
   
 <h1>
   <a href="#---------1">
-    <img alt="" align="right" <img src="showcase/lfs1.png> "
+    <img alt="" align="right" <img src="showcase/lfs1.png ;">
   </a>
 </h1>
 
