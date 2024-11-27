@@ -43,15 +43,6 @@
 
 ---
 
-## 📑 Table of Contents
-
-- [🚀 Features](#features)
-- [📥 Installation Guide](#installation-guide)
-- [🛠️ Dependencies](#dependencies)
-- [🔑 Key Bindings](#key-bindings)
-
----
-
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <div style="flex: 1; padding-right: 20px;">
     <p><strong>🚀 Resource Efficiency</strong></p>
