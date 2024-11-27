@@ -12,16 +12,15 @@
 ```
 
 ## ⚙️ Features
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-    <ul>
-      <li>🖥️ <strong>i3 Window Manager</strong> - For a lightweight and efficient, tiling window workflow</li>
-      <li>🐟 <strong>Fish Shell</strong> - User-friendly and powerful shell with <a href="https://github.com/oh-my-fish/oh-my-fish">Oh My Fish</a> customization</li>
-      <li>💻 <strong>URxvt Terminal</strong> - Compiled from source for a minimalist, efficient experience</li>
-      <li>🎨 <strong>Customization</strong> - A fully tailored environment designed for my workflow and aesthetic preferences</li>
-      <li>🛠️ <strong>Hands-On Learning</strong> - Building everything from source helps me understand Linux in-depth</li>
-    </ul>
-  </div>
+- **Window Manager** :bento: [i3](https://i3wm.org/) Clean theme!
+- **Panel** :blossom: [Polybar](https://github.com/polybar/polybar) with glyphs!
+- **Application Launcher** :rocket: [Rofi](https://github.com/davatorium/rofi) which blazing fast!
+- **Desktop Notification** :herb: [Dunst](https://github.com/dunst-project/dunst) which minimalist!
+- **Terminal Emulator** :leaves: [Rxvt](http://software.schmorp.de/pkg/rxvt-unicode.html) which lightest!
+- **Shell** :shell: [Fish](https://fishshell.com/) Best Shell!
+- **Compositor** :shaved_ice: [Picom](https://github.com/yshui/picom) for perfection topping!
+- **File Manager** :flower_playing_cards: [Thunar](https://docs.xfce.org/xfce/thunar/start) customized side-pane!
+  
   <div style="flex: 1;">
       <img src="showcase/lfs1.png" alt="Rice Setup Preview" width="800" style="display: block; margin: 29px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
 </div>
