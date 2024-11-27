@@ -53,20 +53,15 @@
 
 ---
 <div align="center">
-### 🔑 Key Bindings
+## 🔑 Key Bindings
 
 #### 📱 **Applications**
 
-- **$mod+q** – Close window  
-- **$mod+Return** – Open terminal (RXVT)  
-- **$mod+f** – Launch FIREFOX  
-- **$mod+d** – Run ROFI  
-- **$mod+e** – Open file manager (THUNAR)  
-
-#### ⚙️ **Miscellaneous**
-
-- **$mod+Shift+c** – Reload i3 configuration  
-- **$mod+Shift+e** – Exit i3 session
+- **$mod+q** – KILL  
+- **$mod+Return** – RXVT
+- **$mod+f** – FIREFOX  
+- **$mod+d** – ROFI  
+- **$mod+e** – THUNAR  
 
 ---
 
