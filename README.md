@@ -74,7 +74,7 @@
 
 To install the necessary dependencies on Arch Linux, run:
 
-```sh sudo pacman -S rxvt-unicode polybar fish i3 unzip```
+> ```sh sudo pacman -S rxvt-unicode polybar fish i3 unzip```
 
 **Debian ❣️ - (Ubuntu 🍊 - Mint 🍏)**
 
@@ -82,7 +82,7 @@ For Debian-based distributions, use the following command:
 
 
 
-```sh sudo apt install rxvt-unicode polybar fish i3 unzip```
+> ```sh sudo apt install rxvt-unicode polybar fish i3 unzip```
 
 **Gentoo 🧼**
 
@@ -90,7 +90,7 @@ On Gentoo, you can install the required packages using:
 
 
 
-```sh root # emerge --ask x11-terms/rxvt-unicode polybar x11-wm/i3 unzip```
+> ```sh root # emerge --ask x11-terms/rxvt-unicode polybar x11-wm/i3 unzip```
 
  > Fish Shell Wiki
     (https://wiki.gentoo.org/wiki/Fish)
@@ -99,7 +99,7 @@ On Gentoo, you can install the required packages using:
 
 To install the necessary dependencies on Arch Linux, run:
 
-```sh sudo dnf install rxvt-unicode polybar fish i3 unzip```
+> ```sh sudo dnf install rxvt-unicode polybar fish i3 unzip```
 
 **OpenSUSE 🦎**
 
@@ -107,7 +107,7 @@ For OpenSUSE distribution, use the following command:
 
 
 
-```sh sudo zypper install neofetch rxvt-unicode fish polybar i3 unzip ```
+> ```sh sudo zypper install neofetch rxvt-unicode fish polybar i3 unzip ```
 
 ---
 
@@ -119,7 +119,7 @@ You will need install all packages listed in the repo (https://github.com/pijuli
 ---
 
 ## ✍️ FONTS
-```mkdir $HOME/.fonts && wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/JetBrainsMono.zip && unzip JetBrainsMono.zip && wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/Hack.zip && unzip Hack.zip && fc-cache -vf```
+```sh mkdir $HOME/.fonts && wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/JetBrainsMono.zip && unzip JetBrainsMono.zip && wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/Hack.zip && unzip Hack.zip && fc-cache -vf```
 
 ---
 
