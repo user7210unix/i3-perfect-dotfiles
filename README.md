@@ -117,17 +117,13 @@ You will need install all packages listed in the repo (https://github.com/pijuli
 
  ```git clone https://github.com/pijulius/picom.git && cd picom && meson --buildtype=release . build && ninja -C build && ninja -C build install```
 
----
 
 ## ✍️ FONTS
  ``` mkdir $HOME/.fonts && wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/JetBrainsMono.zip && unzip JetBrainsMono.zip && wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/Hack.zip && unzip Hack.zip && fc-cache -vf```
 
----
 
 
 ### 🐦 Clone the Repository 
 First, clone the repository containing my personal i3 setup:
 
 ```bash git clone https://github.com/user7210unix/i3-perfect-dotfiles.git```
-
----
