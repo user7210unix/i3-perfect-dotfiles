@@ -30,14 +30,14 @@
 </div> 
   
 ## ⚙️ Features
-- **Window Manager** :bento: [i3](https://i3wm.org/) Clean theme!
-- **Panel** :blossom: [Polybar](https://github.com/polybar/polybar) with glyphs!
-- **Application Launcher** :rocket: [Rofi](https://github.com/davatorium/rofi) which blazing fast!
-- **Desktop Notification** :herb: [Dunst](https://github.com/dunst-project/dunst) which minimalist!
-- **Terminal Emulator** :leaves: [Rxvt](http://software.schmorp.de/pkg/rxvt-unicode.html) which lightest!
-- **Shell** :shell: [Fish](https://fishshell.com/) Best Shell!
-- **Compositor** :shaved_ice: [Picom](https://github.com/yshui/picom) for perfection topping!
-- **File Manager** :flower_playing_cards: [Thunar](https://docs.xfce.org/xfce/thunar/start) customized side-pane!
+- **Window Manager** :bento: [i3](https://i3wm.org/)
+- **Panel** :blossom: [Polybar](https://github.com/polybar/polybar)
+- **Application Launcher** :rocket: [Rofi](https://github.com/davatorium/rofi)
+- **Desktop Notification** :herb: [Dunst](https://github.com/dunst-project/dunst)
+- **Terminal Emulator** :leaves: [Rxvt](http://software.schmorp.de/pkg/rxvt-unicode.html)
+- **Shell** :shell: [Fish](https://fishshell.com/)
+- **Compositor** :shaved_ice: [Picom](https://github.com/yshui/picom)
+- **File Manager** :flower_playing_cards: [Thunar](https://docs.xfce.org/xfce/thunar/start)
 
 ### :octocat: ‎ <sup><sub><samp>HI THERE! THANKS FOR DROPPING BY!</samp></sub></sup>
 
