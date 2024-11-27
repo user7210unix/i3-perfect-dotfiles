@@ -126,4 +126,4 @@ You will need install all packages listed in the repo (https://github.com/pijuli
 ### 🐦 Clone the Repository 
 First, clone the repository containing my personal i3 setup:
 
-```bash git clone https://github.com/user7210unix/i3-perfect-dotfiles.git```
+```git clone https://github.com/user7210unix/i3-perfect-dotfiles.git```
