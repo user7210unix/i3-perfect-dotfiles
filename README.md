@@ -93,7 +93,7 @@ On Gentoo, you can install the required packages using:
 
  ```root # emerge: --ask x11-terms/rxvt-unicode polybar x11-wm/i3 unzip```
 
- Fish Shell Wiki
+  ⌲ Fish Shell Wiki
     (https://wiki.gentoo.org/wiki/Fish)
 
 **Fedora Linux 🌊**
