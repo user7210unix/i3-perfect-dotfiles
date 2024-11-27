@@ -77,30 +77,30 @@
 
 To install the necessary dependencies on Arch Linux, run:
 
-> ```sudo pacman -S rxvt-unicode polybar fish i3 unzip```
+ ```sudo pacman -S rxvt-unicode polybar fish i3 unzip```
 
 **Debian ❣️ - (Ubuntu 🍊 - Mint 🍏)**
 
 For Debian-based distributions, use the following command:
 
 
-> ```sudo apt install rxvt-unicode polybar fish i3 unzip```
+ ```sudo apt install rxvt-unicode polybar fish i3 unzip```
 
 **Gentoo 🧼**
 
 On Gentoo, you can install the required packages using:
 
 
-> ```root # emerge: --ask x11-terms/rxvt-unicode polybar x11-wm/i3 unzip```
+ ```root # emerge: --ask x11-terms/rxvt-unicode polybar x11-wm/i3 unzip```
 
- > Fish Shell Wiki
+ Fish Shell Wiki
     (https://wiki.gentoo.org/wiki/Fish)
 
 **Fedora Linux 🌊**
 
 To install the necessary dependencies on Arch Linux, run:
 
-> ```sudo dnf install rxvt-unicode polybar fish i3 unzip```
+ ```sudo dnf install rxvt-unicode polybar fish i3 unzip```
 
 **OpenSUSE 🦎**
 
@@ -108,19 +108,19 @@ For OpenSUSE distribution, use the following command:
 
 
 
-> ```sudo zypper install neofetch rxvt-unicode fish polybar i3 unzip ```
+ ```sudo zypper install neofetch rxvt-unicode fish polybar i3 unzip ```
 
 ---
 
 ## 💦 PICOM-FORK
 You will need install all packages listed in the repo (https://github.com/pijulius/picom/tree/implement-window-animations) first to compile this Custom Picom Fork, if not the picom.conf Configuration will not work
 
-> ```git clone https://github.com/pijulius/picom.git && cd picom && meson --buildtype=release . build && ninja -C build && ninja -C build install```
+ ```git clone https://github.com/pijulius/picom.git && cd picom && meson --buildtype=release . build && ninja -C build && ninja -C build install```
 
 ---
 
 ## ✍️ FONTS
-> ``` mkdir $HOME/.fonts && wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/JetBrainsMono.zip && unzip JetBrainsMono.zip && wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/Hack.zip && unzip Hack.zip && fc-cache -vf```
+ ``` mkdir $HOME/.fonts && wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/JetBrainsMono.zip && unzip JetBrainsMono.zip && wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/Hack.zip && unzip Hack.zip && fc-cache -vf```
 
 ---
 
