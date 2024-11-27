@@ -63,9 +63,10 @@
 - **$mod+d** – ROFI  
 - **$mod+e** – THUNAR  
 
----
 <div align="center">
-  
+
+---
+
 ## 📦 Dependencies
 
 
