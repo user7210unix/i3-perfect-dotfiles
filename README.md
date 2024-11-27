@@ -52,7 +52,6 @@
 </div> 
 
 ---
-<div align="center">
 
 ## 🔑 Key Bindings
 
@@ -65,7 +64,8 @@
 - **$mod+e** – THUNAR  
 
 ---
-
+<div align="center">
+  
 ## 📦 Dependencies
 
 
