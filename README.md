@@ -102,8 +102,7 @@ For OpenSUSE distribution, use the following command:
 **PICOM-FORK**
 You will need install all packages listed in the repo (https://github.com/pijulius/picom/tree/implement-window-animations) first to compile this Custom Picom Fork, if not the picom.conf Configuration will not work
 
-```
-git clone https://github.com/pijulius/picom.git && cd picom && meson --buildtype=release . build && ninja -C build && ninja -C build install```
+```git clone https://github.com/pijulius/picom.git && cd picom && meson --buildtype=release . build && ninja -C build && ninja -C build install```
 
 ## 📥 Clone Dotfiles
 
