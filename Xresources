@@ -20,15 +20,8 @@ URxvt.depth: 24
 URxvt.iso14755: false
 
 !! Copy Paste & Other Extensions
-URxvt.perl-ext-common: default,clipboard,url-select,keyboard-select
 URxvt.copyCommand: xclip -i -selection clipboard
 URxvt.pasteCommand: xclip -o -selection clipboard
-URxvt.keysym.M-c: perl:clipboard:copy
-URxvt.keysym.M-v: perl:clipboard:paste
-URxvt.keysym.M-C-v: perl:clipboard:paste_escaped
-URxvt.keysym.M-Escape: perl:keyboard-select:activate
-URxvt.keysym.M-s: perl:keyboard-select:search
-URxvt.keysym.M-u: perl:url-select:select_next
 URxvt.urlLauncher: firefox
 URxvt.underlineURLs: true
 URxvt.urlButton: 1
@@ -85,16 +78,7 @@ URxvt.keysym.C-S-0x56: eval:paste_clipboard
 
 urxvt*depth:32
 
-! urxvt*background:rgba:0250/1100/1b00/dddd
-! urxvt*background:rgba:1500/1800/2600/fa00
-! urxvt*background:rgba:01e00/2100/3700/fa00
-
-! (old purp) urxvt*background:rgba:2400/1a00/3800/fa00
-
-!urxvt*background:rgba:1300/1a00/3100/fa00
-!urxvt*background:rgba:1c00/2100/3800/ff00
-!urxvt*background:rgba:2300/2700/3000/ff00
-!urxvt*background:rgba:1a00/2100/3200/ff00
+! Dark Blue BACKGROUND
 urxvt*background:#0C0F21
 
 ! 141929
