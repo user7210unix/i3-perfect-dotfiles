@@ -30,7 +30,7 @@
   
 <h1>
   <a href="#---------1">
-    <img alt="" align="right" <img src="showcase/lfs1.png ;">
+    <img align="right" <img src="showcase/lfs1.png ;">
   </a>
 </h1>
 
