@@ -25,9 +25,6 @@
 - [📥 Installation Guide](#installation-guide)
 - [🛠️ Dependencies](#dependencies)
 - [🔑 Key Bindings](#key-bindings)
-- [🌐 Optimized Firefox](#optimized-firefox)
-- [📸 Showcase](#showcase)
-- [🖼️ Wallpapers](#wallpapers)
 
 ---
 
@@ -66,8 +63,13 @@
 
 To install the necessary dependencies on Arch Linux, run:
 
-```sudo pacman -S rxvt-unicode polybar fish i3```
+```console sudo pacman -S rxvt-unicode polybar fish i3```
 
+**Fedora Linux 🔷**
+
+To install the necessary dependencies on Arch Linux, run:
+
+```console sudo dnf install rxvt-unicode polybar fish i3```
 
 **Debian ❣️ - (Ubuntu 🍊 - Mint 🍏)**
 
@@ -75,7 +77,7 @@ For Debian-based distributions, use the following command:
 
 
 
-```sudo apt install rxvt-unicode polybar fish i3```
+```console sudo apt install rxvt-unicode polybar fish i3```
 
 **Gentoo 🧼**
 
@@ -83,7 +85,7 @@ On Gentoo, you can install the required packages using:
 
 
 
-```root # emerge --ask x11-terms/rxvt-unicode polybar x11-wm/i3```
+```console root # emerge --ask x11-terms/rxvt-unicode polybar x11-wm/i3```
 
  > Fish Shell Wiki
     (https://wiki.gentoo.org/wiki/Fish)
@@ -96,13 +98,13 @@ For OpenSUSE distribution, use the following command:
 
 
 
-```sudo zypper install neofetch rxvt-unicode fish polybar i3```
+```console sudo zypper install neofetch rxvt-unicode fish polybar i3```
 
 
 **PICOM-FORK**
 You will need install all packages listed in the repo (https://github.com/pijulius/picom/tree/implement-window-animations) first to compile this Custom Picom Fork, if not the picom.conf Configuration will not work
 
-```git clone https://github.com/pijulius/picom.git && cd picom && meson --buildtype=release . build && ninja -C build && ninja -C build install```
+```bash git clone https://github.com/pijulius/picom.git && cd picom && meson --buildtype=release . build && ninja -C build && ninja -C build install```
 
 ## 📥 Clone Dotfiles
 
