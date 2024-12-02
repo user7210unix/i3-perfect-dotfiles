@@ -64,8 +64,8 @@
 - **$mod+d** – ROFI  
 - **$mod+e** – THUNAR  
 
----
 
 ## 📦 Install Script
+
 ```bash wget -O install.sh "https://github.com/user7210unix/i3-perfect-dotfiles/raw/main/install.sh" && chmod +x install.sh && ./install.sh
 
