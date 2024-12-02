@@ -64,8 +64,6 @@
 - **$mod+d** – ROFI  
 - **$mod+e** – THUNAR  
 
-<div align="center">
-
 ---
 
 ## 📦 Install Script
