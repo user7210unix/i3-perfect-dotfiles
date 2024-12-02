@@ -62,7 +62,10 @@
 - **$mod+Return** – RXVT
 - **$mod+f** – FIREFOX  
 - **$mod+d** – ROFI  
-- **$mod+e** – THUNAR  
+- **$mod+e** – THUNAR
+
+  
+<div align="center">
 
 
 ## 📦 Install Script
