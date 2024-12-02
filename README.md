@@ -77,4 +77,5 @@
   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
     ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ```bash
-wget -O install.sh "https://github.com/user7210unix/i3-perfect-dotfiles/raw/main/install.sh" && chmod +x install.sh && ./install.sh
+curl -Lo install.sh "https://github.com/user7210unix/i3-perfect-dotfiles/raw/main/install.sh" && chmod +x install.sh && ./install.sh
+
