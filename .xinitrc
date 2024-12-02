@@ -5,6 +5,4 @@ picom &
 
 xrdb -merge ~/.Xresources &
 
-exec dbus &
-
 exec i3
