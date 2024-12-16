@@ -69,11 +69,12 @@
 <div align="center">
 
   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-‎
-‎
-## 📦 Install Script
-  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-```bash
-curl -Lo install.sh "https://github.com/user7210unix/i3-perfect-dotfiles/raw/main/install.sh" && chmod +x install.sh && ./install.sh
+
+
+---
+
+<h3 align="center">
+    <a href="#----setup-----wiki-----gallery-----tip-jar"><tt>👆 Back to top</tt></a>
+</h3>
+
 
