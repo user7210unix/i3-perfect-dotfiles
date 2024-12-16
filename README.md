@@ -71,7 +71,6 @@
   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
----
 
 <h3 align="center">
     <a href="#----setup-----wiki-----gallery-----tip-jar"><tt>👆 Back to top</tt></a>
